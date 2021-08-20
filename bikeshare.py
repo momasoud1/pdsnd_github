@@ -22,8 +22,7 @@ def get_filters():
     while (city not in ['chicago','new york city','washington']):
         city = input('Please enter a valid city: chicago,new york city,washington\n')
         if city not in  ['chicago','new york city','washington']:
-            print ('Re enter the right selection ' )
-            print ('from chicago,new york city,washington ')
+            print ('Re enter the right selection\nfrom chicago,new york city,washington ' )
     print(f'you have selected {city.title()}')
 
     # get user input for month (all, january, february, ... , june)
@@ -41,8 +40,7 @@ def get_filters():
     while (day not in ['all','saturday','sunday','monday','tuesday','wednesday','thursday','friday']):
         day=input('Please enter a valid day like : sunday,monday , tuesday ,...,all\n' )
         if day not in ['saturday','sunday','monday','tuesday','wednesday','thursday','friday','all']:
-            print('Re enter the right selection')
-            print('saturday,sunday,monday,tuesday,wednesday,thursday,friday,all')
+            print('Re enter the right selection\nsaturday,sunday,monday,tuesday,wednesday,thursday,friday,all')
     print(f'you have selected {day.title()}')
 
     print('-'*40)
@@ -174,6 +172,7 @@ def user_stats(df):
    #display 5 rows of the raw data
 
 def show_raw_data(df):
+    """" Displaying 5 rows of the raw data for more information """
     user_entry = input('\n would you like to see first 5 rows of the data\n please enter yes or no\n').lower()
     if user_entry in ('yes', 'YES', 'y', 'Y'):
         i=0
