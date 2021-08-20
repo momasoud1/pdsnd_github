@@ -4,7 +4,7 @@
 This project has been created on 31/7/2021
 This README.md file has been created on 20/8/2021
 
-### Prohect Title
+### Project Title
 bikeshare.py
 
 ### Description
@@ -32,6 +32,3 @@ this project make your user use his data easily , without taking more time to ge
 
 ### Files used
 pycharm 2021.1.3
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
