@@ -8,8 +8,8 @@ This README.md file has been created on 20/8/2021
 bikeshare.py
 
 ### Description
-We can set one simple description for this projet "Interactive Uuser experience"
-in this project you make your user use his data easily , without taking more time to get the information , simply this project for bileshare compnay has three branches in difrrent three cities in USA (Chicago , Washington , Newyourk) , this company has system to allows people to borrow a bike from city  and return it at another , though they can also return it to the same location if they'd like to just go for a ride , this project allows people to  filter by city , by month , and by day to know some of important insights as below:
+We can set one simple description for this projet "Interactive user experience"
+this project make your user use his data easily , without taking more time to get the information he need , simply this project for bikeshare compnay named "Motivation" has three branches in difrrent three cities in USA (Chicago , Washington , Newyourk) , this company has a system to allows people to borrow a bike from city  and return it at another , though they can also return it to the same location if they'd like to just go for a ride , and this project made to allow people to filter by city , by month , and by day to know some of important insights as below:
 
 * Popular times of travel (i.e., occurs most often in the start time)
    most common month
