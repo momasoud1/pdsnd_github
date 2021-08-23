@@ -29,13 +29,6 @@ this project make your user use his data easily , without taking more time to ge
    counts of each user type
    counts of each gender (only available for NYC and Chicago)
    earliest, most recent, most common year of birth (only available for NYC and Chicago)
-  
-### installation 
-installing gits
-pycharm Or Atom or any code editor
-
 
 ### Files used
-Chicago.csv
-washington.csv
-newyourk.csv
+pycharm 2021.1.3
